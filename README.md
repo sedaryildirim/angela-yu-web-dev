@@ -30,10 +30,19 @@
     <img src="imgs/Screenshot.png" alt="Logo">
 </div>
 
-<!-- LIST -->
+<!-- ABOUT -->
 ## About
 
 Course files for Angela Yu's Web Dev bootcamp for me to post my own solutions and keep track of my progress
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- TIMELINE -->
+## Timeline
+
+```
+05/01/2023 - completed initial git repo setup for course structure
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
