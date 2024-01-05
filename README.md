@@ -41,7 +41,7 @@ Course files for Angela Yu's Web Dev bootcamp for me to post my own solutions an
 ## Timeline
 
 ```
-05/01/2023 - completed initial git repo setup for course structure
+05/01/2023 - completed initial git repo setup for course structure and completed section 1
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
