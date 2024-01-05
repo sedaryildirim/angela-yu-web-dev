@@ -31,8 +31,9 @@
 </div>
 
 <!-- LIST -->
-## Resources
+## About
 
+Course files for Angela Yu's Web Dev bootcamp for me to post my own solutions and keep track of my progress
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
