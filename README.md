@@ -52,6 +52,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [forks-url]: https://github.com/sedaryildirim/angela-yu-web-dev/network/members
 [stars-shield]: https://img.shields.io/github/stars/sedaryildirim/angela-yu-web-dev.svg?style=for-the-badge
 [stars-url]: https://github.com/sedaryildirim/angela-yu-web-dev/stargazers
-[license-shield]: https://img.shields.io/github/license/sedaryildirim/angela-yu-web-dev.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/sedaryildirim/angela-yu-web-dev?label=license&style=for-the-badge
 [license-url]: https://github.com/sedaryildirim/angela-yu-web-dev/blob/main/LICENSE.md
 [product-screenshot]: imgs/Screenshot.png
