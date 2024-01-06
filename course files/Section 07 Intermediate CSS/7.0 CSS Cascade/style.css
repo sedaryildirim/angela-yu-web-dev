@@ -10,3 +10,19 @@ p {
   margin: 0;
   padding: 0;
 }
+
+.inner-box {
+  background-color: red;
+}
+
+p {
+  color: yellow;
+}
+
+.white-text {
+  color: white;
+}
+
+#outer-box {
+  border: 10px solid purple;
+}
