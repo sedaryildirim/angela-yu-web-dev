@@ -23,14 +23,16 @@
   </p>
 </div>
 
-
 <!-- SCREENSHOT -->
+
 ## Screenshot
+
 <div align="center">
     <img src="imgs/Screenshot.png" alt="Logo">
 </div>
 
 <!-- ABOUT -->
+
 ## About
 
 Course files for Angela Yu's Web Dev bootcamp for me to post my own solutions and keep track of my progress
@@ -38,7 +40,12 @@ Course files for Angela Yu's Web Dev bootcamp for me to post my own solutions an
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TIMELINE -->
+
 ## Timeline
+
+```
+06/01/2023 - completed sections 2-6 and uploaded course files and completed tasks
+```
 
 ```
 05/01/2023 - completed initial git repo setup for course structure and completed section 1
@@ -47,6 +54,7 @@ Course files for Angela Yu's Web Dev bootcamp for me to post my own solutions an
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -55,6 +63,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/sedaryildirim/angela-yu-web-dev.svg?style=for-the-badge
 [contributors-url]: https://github.com/sedaryildirim/angela-yu-web-dev/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sedaryildirim/angela-yu-web-dev.svg?style=for-the-badge
