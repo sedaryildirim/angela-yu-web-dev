@@ -44,7 +44,7 @@ Course files for Angela Yu's Web Dev bootcamp for me to post my own solutions an
 ## Timeline
 
 ```
-06/01/2023 - completed sections 2-6 and uploaded course files and completed tasks
+06/01/2023 - completed sections 2-8 and uploaded course files and completed tasks
 ```
 
 ```
